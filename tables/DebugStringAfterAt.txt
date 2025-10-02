@@ -1,0 +1,9 @@
+Table: DebugStringAfterAt
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+ID	Long	4
+Details	Memo	0
+AtFound	Text	255
+ModifiedDetails	Memo	0

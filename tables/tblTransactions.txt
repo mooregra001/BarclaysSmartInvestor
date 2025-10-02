@@ -1,0 +1,11 @@
+Table: tblTransactions
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+ID	Long	4
+Date	Date/Time	8
+Details	Memo	0
+Account	Text	255
+Paid In	Double	8
+Withdrawn	Double	8

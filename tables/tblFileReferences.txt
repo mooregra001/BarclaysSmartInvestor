@@ -1,0 +1,9 @@
+Table: tblFileReferences
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+FileID	Long	4
+FilePath	Memo	0
+FileName	Memo	0
+SheetName	Memo	0

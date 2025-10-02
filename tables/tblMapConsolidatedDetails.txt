@@ -1,0 +1,7 @@
+Table: tblMapConsolidatedDetails
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+ModifiedDetails	Text	255
+ConsolidatedDetails	Text	255

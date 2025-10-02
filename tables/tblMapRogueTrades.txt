@@ -1,0 +1,12 @@
+Table: tblMapRogueTrades
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+Date	Date/Time	8
+Details	Memo	0
+Account	Text	255
+Paid In	Other	8
+Withdrawn	Other	8
+Quantity	Other	8
+Price	Currency	8

@@ -1,0 +1,10 @@
+Table: tblImportConfig
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+TableName	Text	255
+VBASubName	Text	255
+RefreshSubName	Text	255
+DeleteQueryName	Text	255
+SecondaryDeleteQuery	Text	255

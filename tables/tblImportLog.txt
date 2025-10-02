@@ -1,0 +1,10 @@
+Table: tblImportLog
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+LogID	Long	4
+TableName	Text	255
+Status	Text	50
+Details	Memo	0
+ImportDate	Date/Time	8

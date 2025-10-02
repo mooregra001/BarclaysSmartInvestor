@@ -1,0 +1,21 @@
+Table: tblInvestmentsConsolidated
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+ConsolidatedInvestments	Text	255
+Investment	Text	255
+Identifier	Text	255
+Quantity Held	Double	8
+Last Price	Double	8
+Last Price CCY	Text	255
+Value	Double	8
+Value CCY	Text	255
+FX Rate	Double	8
+Last Price (p)	Double	8
+Value (£)	Double	8
+Book Cost	Double	8
+Book Cost CCY	Text	255
+Average FX Rate	Double	8
+Book Cost (£)	Double	8
+% Change	Double	8
