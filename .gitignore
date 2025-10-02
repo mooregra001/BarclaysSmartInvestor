@@ -1,0 +1,30 @@
+# Access VBA project
+*.accdb
+*.accde
+*.mdb
+*.mde
+*.laccdb
+*.ldb
+*.bak
+*.tmp
+*.log
+
+# VBA exports
+*.bas
+*.cls
+*.frm
+*.frx
+
+# Ignore compiled and temp files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
+*.cache
+*.db
+*.~*
+
+# Office-related temp files
+~$*
