@@ -1,0 +1,10 @@
+Table: DebugQuantityLog
+Exported on: 2025-10-01 18:46:33
+
+Field Name	Data Type	Size
+----------------------------------------
+ID	Long	4
+Details	Memo	0
+KeywordFound	Text	255
+QuantityString	Text	255
+ExtractedQuantity	Other	8
